@@ -1,4 +1,6 @@
-### Hi there my name is James Schroeder👋
+### Hi there 👋
+
+My name is James, and I'm a current Senior at Texas State University interested in everything realted to data analysis!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
