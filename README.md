@@ -7,8 +7,8 @@
 
 <h2>📄 Certifications </h2>
 
-- [Google IT Support Professional] (https://coursera.org/share/37fb6f5f0de19ec7a664705d47000f38)
-- [Google Data Analytics Professional] (https://coursera.org/share/7c150429d75dc37de23f2562457923ca)
+- [Google IT Support Professional](https://coursera.org/share/37fb6f5f0de19ec7a664705d47000f38)
+- [Google Data Analytics Professional](https://coursera.org/share/7c150429d75dc37de23f2562457923ca)
 
 <h2> 🤳 Connect with me:</h2>
 
